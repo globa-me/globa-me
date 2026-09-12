@@ -9,7 +9,7 @@ The profile borrows from an independent technology magazine and a compact creati
 - Warm paper `#F2F0E9`, ink `#181818`, signal orange `#FF4B20`.
 - One wide masthead illustration; no decorative badge wall or GitHub-stat widgets.
 - Bold editorial hierarchy with short, plain-language sections.
-- Tables are used selectively for stable columns and project pairs, not as repeated card scaffolding.
+- Product stories and capability groups stay single-column because GitHub cannot add responsive breakpoints to README HTML. Only the compact three-number proof strip uses a table.
 - The crosshair is a recurring symbol for focus: strategy finding the precise point where audience, product, and message meet.
 
 ## Content hierarchy
@@ -24,6 +24,7 @@ The profile borrows from an independent technology magazine and a compact creati
 ## Maintenance
 
 - Keep public products first and label private/in-development work honestly.
+- Qualify experimental builds, previews, and maintained forks explicitly.
 - Update proof points only after they are updated on `zakharov.asia`.
 - Prefer one strong new case over adding more lists.
 - Check all links after any handle, domain, or product-name change.

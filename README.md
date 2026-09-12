@@ -30,39 +30,31 @@ My GitHub is the workshop behind that practice: small, useful products built aro
 
 ## Products from my workbench
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/globa-me/GZWhisper">GZWhisper</a></h3>
-      <p>Local-first transcription for macOS and Linux. Turns audio and video into usable text with faster-whisper — without sending the source material away.</p>
-      <p><code>Swift</code> <code>Whisper</code> <code>Privacy-first</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/globa-me/Link2Download">Link2Download</a></h3>
-      <p>A native macOS downloader for video and audio, powered by yt-dlp, with a Windows port. One focused job, without command-line friction.</p>
-      <p><code>Swift</code> <code>macOS</code> <code>Media tools</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/globa-me/SubCopy">SubCopy</a></h3>
-      <p>A browser tool for collecting YouTube captions, thumbnails, and video details in one click — built for research and content workflows.</p>
-      <p><code>JavaScript</code> <code>Browser extension</code> <code>Creator tools</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/globa-me/Screendance-App">Screendance</a></h3>
-      <p>An Apple Silicon screen recorder and editor for turning what happens on screen into clear, publishable stories.</p>
-      <p><code>TypeScript</code> <code>macOS</code> <code>Creative software</code></p>
-    </td>
-  </tr>
-</table>
+### [GZWhisper](https://github.com/globa-me/GZWhisper)
 
-### Also in development
+Local-first transcription for macOS, with an experimental Linux build. Turns audio and video into usable text with faster-whisper — without sending the source material away.<br/>
+`Swift` · `Whisper` · `Privacy-first`
 
-- **GZWhisper for iPhone** — an offline recorder with transcription, translation, and local AI chat.
-- **Mentum.Guru** — an AI practice environment for developing professional skills through real work scenarios.
-- **OpenSMM AI** — an adaptive learning concept for personalised marketing education.
-- **Botable** — experiments in generating useful Telegram products with AI.
+### [Link2Download](https://github.com/globa-me/Link2Download)
+
+A native macOS downloader for video and audio, powered by yt-dlp, with a Windows preview port. One focused job, without command-line friction.<br/>
+`Swift` · `macOS` · `Media tools`
+
+### [SubCopy](https://github.com/globa-me/SubCopy)
+
+A browser tool for collecting YouTube captions, thumbnails, and video details in one click — built for research and content workflows.<br/>
+`JavaScript` · `Browser extension` · `Creator tools`
+
+### [Screendance](https://github.com/globa-me/Screendance-App)
+
+An Apple Silicon-focused maintained fork of Recordly, currently in development; no public build yet. Its aim: turn what happens on screen into clear, publishable stories.<br/>
+`Maintained fork` · `macOS` · `In development`
+
+### On the private workbench
+
+- **GZWhisper for iPhone** — private beta: offline recording, transcription, translation, and local AI chat.
+- **Mentum.Guru** — in development: AI practice for professional skills through real work scenarios.
+- **Botable** — private experiments in generating useful Telegram products with AI.
 
 ## Marketing is the operating system
 
@@ -70,9 +62,9 @@ I don’t build software to collect technologies. I build it to remove friction 
 
 That perspective comes from leading and delivering work across:
 
-| Strategy & growth | Creative & communication | Research & product |
-|---|---|---|
-| Positioning, go-to-market, acquisition, partnerships | Brand systems, content, SMM, PR, education | CJM, analytics, UX, SEO, AI integrations |
+- **Strategy & growth:** positioning, go-to-market, acquisition, partnerships.
+- **Creative & communication:** brand systems, content, SMM, PR, education.
+- **Research & product:** CJM, analytics, UX, SEO, AI integrations.
 
 Recent work includes growth and positioning for **GPTunneL AI**, regional digital marketing for **Goethe-Institut**, product strategy for **AskDou.ai** and **Storista AI**, and digital product work for **Philip Morris International** and **Chocofood**. [Explore the cases →](https://zakharov.asia/projects/)
 
@@ -92,16 +84,7 @@ Through **«Цифранутый»**, I test tools, unpack shifts in AI and digi
 
 ---
 
-<table>
-  <tr>
-    <td width="70%">
-      <strong>Have a product that is hard to explain — or ready to grow?</strong><br/>
-      <sub>Let’s turn its complexity into a clear strategy, story, and experience.</sub>
-    </td>
-    <td width="30%" align="right">
-      <a href="https://t.me/m/2jN7pTPqMmEy"><strong>Discuss a project →</strong></a>
-    </td>
-  </tr>
-</table>
+**Have a product that is hard to explain — or ready to grow?**<br/>
+Let’s turn its complexity into a clear strategy, story, and experience. [Discuss a project →](https://t.me/m/2jN7pTPqMmEy)
 
 <p align="center"><sub>ALMATY · EUROPE / ASIA · RU / EN</sub></p>

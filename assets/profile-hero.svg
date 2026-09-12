@@ -9,11 +9,9 @@
   <circle cx="1009" cy="215" r="104" fill="#F2F0E9" stroke="#181818" stroke-width="2"/>
   <circle cx="1009" cy="215" r="18" fill="#181818"/>
   <path d="M1009 111V319M905 215H1113" stroke="#181818" stroke-width="2"/>
-  <text x="62" y="72" fill="#181818" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="2.4">CREATIVE MARKETING · AI PRODUCTS · ALMATY</text>
+  <text x="62" y="82" fill="#181818" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="700" letter-spacing="1.5">CREATIVE MARKETING × AI PRODUCTS</text>
   <text x="58" y="190" fill="#181818" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="800" letter-spacing="-2.2">GENNADIY</text>
   <text x="58" y="270" fill="#181818" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="800" letter-spacing="-2.2">ZAKHAROV</text>
   <line x1="62" y1="309" x2="782" y2="309" stroke="#181818" stroke-width="2"/>
-  <text x="62" y="348" fill="#181818" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="500">I turn complex technology into clear stories,</text>
-  <text x="62" y="377" fill="#181818" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="500">useful products, and measurable growth.</text>
-  <text x="1145" y="387" fill="#181818" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" text-anchor="end" letter-spacing="1.5">2016—NOW</text>
+  <text x="62" y="360" fill="#181818" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="500">CLEAR STORIES · USEFUL PRODUCTS · GROWTH</text>
 </svg>
