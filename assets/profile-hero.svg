@@ -1,0 +1,19 @@
+<svg width="1200" height="430" viewBox="0 0 1200 430" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Gennadiy Zakharov</title>
+  <desc id="desc">Creative marketing, AI products and useful software</desc>
+  <rect width="1200" height="430" fill="#F2F0E9"/>
+  <rect x="24" y="24" width="1152" height="382" rx="2" stroke="#181818" stroke-width="2"/>
+  <rect x="842" y="24" width="334" height="382" fill="#FF4B20"/>
+  <path d="M842 24L1176 406" stroke="#181818" stroke-width="2"/>
+  <path d="M1176 24L842 406" stroke="#181818" stroke-width="2"/>
+  <circle cx="1009" cy="215" r="104" fill="#F2F0E9" stroke="#181818" stroke-width="2"/>
+  <circle cx="1009" cy="215" r="18" fill="#181818"/>
+  <path d="M1009 111V319M905 215H1113" stroke="#181818" stroke-width="2"/>
+  <text x="62" y="72" fill="#181818" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="2.4">CREATIVE MARKETING · AI PRODUCTS · ALMATY</text>
+  <text x="58" y="190" fill="#181818" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="800" letter-spacing="-2.2">GENNADIY</text>
+  <text x="58" y="270" fill="#181818" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="800" letter-spacing="-2.2">ZAKHAROV</text>
+  <line x1="62" y1="309" x2="782" y2="309" stroke="#181818" stroke-width="2"/>
+  <text x="62" y="348" fill="#181818" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="500">I turn complex technology into clear stories,</text>
+  <text x="62" y="377" fill="#181818" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="500">useful products, and measurable growth.</text>
+  <text x="1145" y="387" fill="#181818" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" text-anchor="end" letter-spacing="1.5">2016—NOW</text>
+</svg>
