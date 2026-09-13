@@ -80,7 +80,7 @@ Recent work includes growth and positioning for **GPTunneL AI**, regional digita
 <p>
   <a href="https://t.me/tsifranuty_me"><img src="https://cdn.simpleicons.org/telegram/26A5E4" alt="Telegram" width="16" height="16" align="center" /></a>&nbsp; <a href="https://t.me/tsifranuty_me">Telegram</a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/zaharov-gennady/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="16" height="16" align="center" /></a>&nbsp; <a href="https://www.linkedin.com/in/zaharov-gennady/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/zaharov-gennady/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" alt="LinkedIn" width="16" height="16" align="center" /></a>&nbsp; <a href="https://www.linkedin.com/in/zaharov-gennady/">LinkedIn</a>
 </p>
 
 ---
