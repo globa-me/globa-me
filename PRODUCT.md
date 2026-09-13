@@ -21,7 +21,7 @@ Core idea: **turning complex technology into clear stories, useful products, and
 
 - Digital marketing practice since 2016.
 - 300+ delivered projects.
-- 40K+ social audience.
+- 56.3K followers across TikTok, Instagram, YouTube, and Facebook; 1.27M combined reported reach. Platform breakdown is maintained in `README.md`.
 - Work across Europe and Asia, in Russian and English.
 - Selected experience: Goethe-Institut, GPTunneL AI, Philip Morris International, Chocofood, AskDou.ai, Storista AI.
 

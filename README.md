@@ -24,7 +24,7 @@ My GitHub is the workshop behind that practice: small, useful products built aro
   <tr>
     <td width="33%"><strong>10 years</strong><br/><sub>in digital marketing</sub></td>
     <td width="33%"><strong>300+ projects</strong><br/><sub>strategy, growth & education</sub></td>
-    <td width="33%"><strong>40K+ audience</strong><br/><sub>across social media</sub></td>
+    <td width="33%"><strong>56.3K followers</strong><br/><sub>1.27M combined reach</sub></td>
   </tr>
 </table>
 
@@ -72,15 +72,12 @@ Recent work includes growth and positioning for **GPTunneL AI**, regional digita
 
 Through **«Цифранутый»**, I test tools, unpack shifts in AI and digital products, and share what is actually useful for creators, marketers, and teams.
 
-<p>
-  <a href="https://www.tiktok.com/@tsifranuty"><strong>TikTok</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://t.me/tsifranuty_me"><strong>Telegram</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://www.instagram.com/globa_me/"><strong>Instagram</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/zaharov-gennady/"><strong>LinkedIn</strong></a>
-</p>
+- [**TikTok — 30.8K followers · 620K reach**](https://www.tiktok.com/@tsifranuty)
+- [**Instagram — 17K followers · 500K reach**](https://www.instagram.com/globa_me/)
+- [**YouTube — 2.5K subscribers · 70K reach**](https://www.youtube.com/@tsifranuty)
+- [**Facebook — 6K followers · 80K reach**](https://www.facebook.com/gennadij.zaharov/)
+
+[Telegram](https://t.me/tsifranuty_me) · [LinkedIn](https://www.linkedin.com/in/zaharov-gennady/)
 
 ---
 
