@@ -22,9 +22,9 @@ This profile contains my public applications and selected work.
 
 <table>
   <tr>
-    <td width="33%"><strong>10 years</strong><br/><sub>in digital marketing</sub></td>
-    <td width="33%"><strong>300+ projects</strong><br/><sub>strategy, growth & education</sub></td>
-    <td width="33%"><strong>56.3K followers</strong><br/><sub>1.27M combined reach</sub></td>
+    <td width="33%"><strong>10 years</strong><br/>in digital marketing</td>
+    <td width="33%"><strong>300+ projects</strong><br/>strategy, growth & education</td>
+    <td width="33%"><strong>56.3K followers</strong><br/>1.27M combined reach</td>
   </tr>
 </table>
 
