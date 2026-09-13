@@ -1,16 +1,16 @@
 # GitHub Profile Design
 
-## Direction: Editorial Signal
+## Direction: Editorial Reference
 
-The profile borrows from an independent technology magazine and a compact creative-studio folio. It should feel authored, direct, and visually memorable within GitHub's limited Markdown surface.
+The profile borrows from an independent technology magazine and a compact creative-studio folio. It should feel authored and direct, while allowing the work and evidence to carry the profile.
 
 ## Visual system
 
 - Warm paper `#F2F0E9`, ink `#181818`, signal orange `#FF4B20`.
-- One wide masthead illustration; no decorative badge wall or GitHub-stat widgets.
+- One restrained typographic masthead; no decorative badge wall or GitHub-stat widgets.
 - Bold editorial hierarchy with short, plain-language sections.
 - Product stories and capability groups stay single-column because GitHub cannot add responsive breakpoints to README HTML. Only the compact three-number proof strip uses a table.
-- The crosshair is a recurring symbol for focus: strategy finding the precise point where audience, product, and message meet.
+- Small platform icons add wayfinding where they communicate destination; they do not become badges or decoration.
 
 ## Content hierarchy
 

@@ -8,7 +8,7 @@ This repository powers the public GitHub profile for `github.com/globa-me`. It i
 
 Gennadiy is a creative digital marketing specialist first, with product-building and software as extensions of his marketing practice. The profile should not frame him as a conventional software engineer or list technology for its own sake.
 
-Core idea: **turning complex technology into clear stories, useful products, and measurable growth.**
+Core idea: **digital marketing specialist working with AI and digital products.** The profile should state the work and evidence directly, without self-evaluative promises.
 
 ## Audiences
 

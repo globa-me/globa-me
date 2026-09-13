@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://zakharov.asia/">
-    <img src="./assets/profile-hero.svg" alt="Gennadiy Zakharov — creative marketing, AI products, useful software" width="100%" />
+    <img src="./assets/profile-hero.svg" alt="Gennadiy Zakharov — digital marketing, AI, and products" width="100%" />
   </a>
 </p>
 
@@ -14,11 +14,11 @@
   <a href="https://www.linkedin.com/in/zaharov-gennady/">LinkedIn</a>
 </p>
 
-## I make complex technology easier to understand — and easier to choose.
+## Digital marketing, AI, and product work
 
-I’m **Gennadiy Zakharov**, a creative marketing specialist and product builder based in Almaty, working across Europe and Asia. Since 2016, I’ve connected strategy, research, content, analytics, and digital products — from international organisations and consumer brands to AI startups and my own apps.
+I’m **Gennadiy Zakharov**, a digital marketing specialist based in Almaty. Since 2016, I’ve worked on strategy, research, content, analytics, education, and digital products across Europe and Asia.
 
-My GitHub is the workshop behind that practice: small, useful products built around real communication problems.
+This profile contains my public applications and selected work.
 
 <table>
   <tr>
@@ -28,39 +28,37 @@ My GitHub is the workshop behind that practice: small, useful products built aro
   </tr>
 </table>
 
-## Products from my workbench
+## Applications and tools
 
 ### [GZWhisper](https://github.com/globa-me/GZWhisper)
 
-Local-first transcription for macOS, with an experimental Linux build. Turns audio and video into usable text with faster-whisper — without sending the source material away.<br/>
+Local-first transcription for macOS, with an experimental Linux build. Converts audio and video to text with faster-whisper.<br/>
 `Swift` · `Whisper` · `Privacy-first`
 
 ### [Link2Download](https://github.com/globa-me/Link2Download)
 
-A native macOS downloader for video and audio, powered by yt-dlp, with a Windows preview port. One focused job, without command-line friction.<br/>
+A native macOS downloader for video and audio, powered by yt-dlp, with a Windows preview port.<br/>
 `Swift` · `macOS` · `Media tools`
 
 ### [SubCopy](https://github.com/globa-me/SubCopy)
 
-A browser tool for collecting YouTube captions, thumbnails, and video details in one click — built for research and content workflows.<br/>
+A browser tool for copying YouTube captions, thumbnails, and video details.<br/>
 `JavaScript` · `Browser extension` · `Creator tools`
 
 ### [Screendance](https://github.com/globa-me/Screendance-App)
 
-An Apple Silicon-focused maintained fork of Recordly, currently in development; no public build yet. Its aim: turn what happens on screen into clear, publishable stories.<br/>
+An Apple Silicon-focused maintained fork of Recordly, currently in development; no public build yet.<br/>
 `Maintained fork` · `macOS` · `In development`
 
-### On the private workbench
+### In development
 
 - **GZWhisper for iPhone** — private beta: offline recording, transcription, translation, and local AI chat.
 - **Mentum.Guru** — in development: AI practice for professional skills through real work scenarios.
 - **Botable** — private experiments in generating useful Telegram products with AI.
 
-## Marketing is the operating system
+## Marketing experience
 
-I don’t build software to collect technologies. I build it to remove friction from a human journey: finding a message, understanding a product, making content, learning a skill, or finishing a repetitive task.
-
-That perspective comes from leading and delivering work across:
+My work covers:
 
 - **Strategy & growth:** positioning, go-to-market, acquisition, partnerships.
 - **Creative & communication:** brand systems, content, SMM, PR, education.
@@ -68,20 +66,25 @@ That perspective comes from leading and delivering work across:
 
 Recent work includes growth and positioning for **GPTunneL AI**, regional digital marketing for **Goethe-Institut**, product strategy for **AskDou.ai** and **Storista AI**, and digital product work for **Philip Morris International** and **Chocofood**. [Explore the cases →](https://zakharov.asia/projects/)
 
-## I explain AI in human language
+## AI content and social media
 
-Through **«Цифранутый»**, I test tools, unpack shifts in AI and digital products, and share what is actually useful for creators, marketers, and teams.
+**«Цифранутый»** is my Russian-language media project about AI, technology, and digital products.
 
-- [**TikTok — 30.8K followers · 620K reach**](https://www.tiktok.com/@tsifranuty)
-- [**Instagram — 17K followers · 500K reach**](https://www.instagram.com/globa_me/)
-- [**YouTube — 2.5K subscribers · 70K reach**](https://www.youtube.com/@tsifranuty)
-- [**Facebook — 6K followers · 80K reach**](https://www.facebook.com/gennadij.zaharov/)
+<p>
+  <a href="https://www.tiktok.com/@tsifranuty"><img src="https://cdn.simpleicons.org/tiktok/FF0050" alt="TikTok" width="16" height="16" align="center" /></a>&nbsp; <a href="https://www.tiktok.com/@tsifranuty"><strong>TikTok</strong></a> — 30.8K followers · 620K reach<br/>
+  <a href="https://www.instagram.com/globa_me/"><img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="16" height="16" align="center" /></a>&nbsp; <a href="https://www.instagram.com/globa_me/"><strong>Instagram</strong></a> — 17K followers · 500K reach<br/>
+  <a href="https://www.youtube.com/@tsifranuty"><img src="https://cdn.simpleicons.org/youtube/FF0000" alt="YouTube" width="16" height="16" align="center" /></a>&nbsp; <a href="https://www.youtube.com/@tsifranuty"><strong>YouTube</strong></a> — 2.5K subscribers · 70K reach<br/>
+  <a href="https://www.facebook.com/gennadij.zaharov/"><img src="https://cdn.simpleicons.org/facebook/0866FF" alt="Facebook" width="16" height="16" align="center" /></a>&nbsp; <a href="https://www.facebook.com/gennadij.zaharov/"><strong>Facebook</strong></a> — 6K followers · 80K reach
+</p>
 
-[Telegram](https://t.me/tsifranuty_me) · [LinkedIn](https://www.linkedin.com/in/zaharov-gennady/)
+<p>
+  <a href="https://t.me/tsifranuty_me"><img src="https://cdn.simpleicons.org/telegram/26A5E4" alt="Telegram" width="16" height="16" align="center" /></a>&nbsp; <a href="https://t.me/tsifranuty_me">Telegram</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/zaharov-gennady/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="16" height="16" align="center" /></a>&nbsp; <a href="https://www.linkedin.com/in/zaharov-gennady/">LinkedIn</a>
+</p>
 
 ---
 
-**Have a product that is hard to explain — or ready to grow?**<br/>
-Let’s turn its complexity into a clear strategy, story, and experience. [Discuss a project →](https://t.me/m/2jN7pTPqMmEy)
+More work: [zakharov.asia](https://zakharov.asia/) · Contact: [Telegram](https://t.me/m/2jN7pTPqMmEy) or [email](mailto:gennadiy@zakharov.asia)
 
 <p align="center"><sub>ALMATY · EUROPE / ASIA · RU / EN</sub></p>
