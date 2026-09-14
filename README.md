@@ -5,11 +5,11 @@
 </p>
 
 <p align="center">
-  <a href="https://zakharov.asia/">Portfolio</a>
+  <a href="https://zakharov.asia/">My Portfolio (RU)</a>
   &nbsp;·&nbsp;
-  <a href="https://zakharov.asia/en/">English</a>
+  <a href="https://zakharov.asia/en/">English Website</a>
   &nbsp;·&nbsp;
-  <a href="https://t.me/tsifranuty_me">AI media</a>
+  <a href="https://t.me/tsifranuty_me">Telegram Channel</a>
   &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/zaharov-gennady/">LinkedIn</a>
 </p>
@@ -24,7 +24,7 @@ This profile contains my public applications and selected work.
   <tr>
     <td width="33%"><strong>10 years</strong><br/>in digital marketing</td>
     <td width="33%"><strong>300+ projects</strong><br/>strategy, growth & education</td>
-    <td width="33%"><strong>56.3K followers</strong><br/>1.27M combined reach</td>
+    <td width="33%"><strong>56K followers</strong><br/>1.2M combined reach</td>
   </tr>
 </table>
 
